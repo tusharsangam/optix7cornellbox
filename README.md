@@ -1,4 +1,4 @@
-# CAP 6721 Raytraacing Spring 2021 OptiX 7/7.3 project for simple Rayaabb cornell box
+# CAP 6721 Raytraacing Spring 2021 OptiX 7/7.3 project for simple Ray aabb (Axis aligned bounding box) cornell box
 
 ## File Description:
 This code has been originally started from the template provided at [https://github.com/ingowald/optix7course](https://github.com/ingowald/optix7course) , project explores optix 7.3 (latest version) for simple Cornell box rendering
