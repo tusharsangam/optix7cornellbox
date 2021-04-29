@@ -34,11 +34,11 @@ Code is divided in two folders common & optix7cornellbox, common folder has some
 
 ## Dependencies
 
-- a compiler
+- A compiler
     - On Windows, tested with Visual Studio 2019 community editions
-- Min CUDA 10.1
+- Minimum CUDA 10.1
     - Download from developer.nvidia.com
-- latest NVIDIA developer driver that comes with the SDK
+- Latest NVIDIA developer driver that comes with the SDK
     - download from [http://developer.nvidia.com/optix](http://developer.nvidia.com/optix) and click "Get OptiX"
 - OptiX 7 SDK
     - download from [http://developer.nvidia.com/optix](http://developer.nvidia.com/optix) and click "Get OptiX"
